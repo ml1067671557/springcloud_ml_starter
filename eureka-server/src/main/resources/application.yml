@@ -1,0 +1,6 @@
+server:
+  port: 1290
+
+spring:
+  profiles:
+    active: dev
